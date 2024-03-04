@@ -1,1 +1,7 @@
-# effective-java
+# EFFECTIVE JAVA 3/E Study
+
+- 월, 수, 금 다음 날 출근 전까지 업로드
+
+- 챕터 별로 해당 장 이름으로 폴더 생성 e.g. 2. 객체 생성과 파괴
+
+- 파일 이름 e.g. 2장 아이템1 이면  2-1_ce.md, 2-1_ec.md
